@@ -29,11 +29,6 @@
     "build-storybook": "build-storybook",
     "dtslint": "dtslint types"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "*.js": [
       "npm run ci-lint -- --fix",

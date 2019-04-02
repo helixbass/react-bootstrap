@@ -127,7 +127,7 @@
     "popper.js": "^1.14.7",
     "prop-types": "^15.7.2",
     "prop-types-extra": "^1.1.0",
-    "react-overlays": "github:helixbass/react-overlays#f59cbd",
+    "react-overlays": "github:helixbass/react-overlays#e08869c",
     "react-transition-group": "^2.7.1",
     "uncontrollable": "^6.1.0",
     "warning": "^4.0.3"

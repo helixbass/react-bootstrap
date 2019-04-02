@@ -9534,9 +9534,9 @@ react-modal@^3.3.2:
     react-lifecycles-compat "^3.0.0"
     warning "^3.0.0"
 
-"react-overlays@github:helixbass/react-overlays#f59cbd":
+"react-overlays@github:helixbass/react-overlays#e08869c":
   version "1.2.0"
-  resolved "https://codeload.github.com/helixbass/react-overlays/tar.gz/f59cbdc1b30db2394ddc89e422314df44ab5e395"
+  resolved "https://codeload.github.com/helixbass/react-overlays/tar.gz/e08869c5ac772fb9ed71cd8948757c0c427a5d02"
   dependencies:
     classnames "^2.2.6"
     dom-helpers "^3.4.0"
